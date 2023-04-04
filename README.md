@@ -1,3 +1,19 @@
+**News List App
+**This is a React application that displays news fetched from the Inshorts API.
+
+**Features
+Fetches news from the Inshorts API based on the selected category.
+Displays the fetched news  in a grid view with a maximum of 8 news per page.
+Implements pagination to allow users to navigate through the pages of news.
+Allows users to click on a news to view it in a modal window that shows the image title, content, author, and date.
+Implements loading state while waiting for news to be fetched from the API.
+Allows users to select a category (all, sports, technology, entertainment) to filter the news based on the selected category.
+
+**Technologies Used
+React
+Axios
+Tailwind CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
